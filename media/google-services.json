@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785651019999",
+    "firebase_url": "https://dendi-clinic-default-rtdb.firebaseio.com",
+    "project_id": "dendi-clinic",
+    "storage_bucket": "dendi-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785651019999:android:cbf879b71c63aac9cef96a",
+        "android_client_info": {
+          "package_name": "vn.dendiezs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785651019999-j8v87ceqoelcb45dajhs47dtdvqaiu4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-INt2B2z6iIdttuGCd_QPl5b6IQyHMJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785651019999-j8v87ceqoelcb45dajhs47dtdvqaiu4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785651019999-vjc8lqeurebcfiea5rmk95aahsdmq4a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.dendiezs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
